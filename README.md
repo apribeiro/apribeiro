@@ -8,11 +8,21 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-apribeiro&style=flat-square&color=orange" alt="André Ribeiro's GitHub Counter"/>
 </div>
 
+---
+
 - 👋 Hi, I’m André Ribeiro (@apribeiro).
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+---
+
+### :fire: My Stats:
+
+[![André Ribeiro's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=apribeiro&theme=dark)](https://git.io/streak-stats)
+
+[![André Ribeiro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apribeiro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 apribeiro/apribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
