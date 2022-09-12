@@ -10,11 +10,11 @@
 
 ---
 
-- 👋 Hi, I’m André Ribeiro (@apribeiro).
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, I'm André Ribeiro (@apribeiro). I'm a portuguese Software Engineer and Scrum Master based in the beautiful and sunny city of Lisbon, Portugal. :portugal:
+- 👀 I'm interested in Full Stack Web Development, Agile Methodologies and Model-Driven Engineering. Besides that, I'm passionate about music, sports, traveling and enjoying life.
+- 🌱 I'm currently learning more about Agile Methodologies and how they can help teams improving their day-to-day work.
+- 💞️ I'm looking to collaborate on...
+- 📫 Feel free to reach me through my [LinkedIn Profile](https://pt.linkedin.com/in/andr%C3%A9-ribeiro-kr36) or through my [email](mailto:andre.ribeiro@ist.utl.pt).
 
 ---
 
