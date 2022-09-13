@@ -1,4 +1,6 @@
-# 👋 Olá! Welcome, André here! #
+<div id="welcome" align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=FFA500&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=👋+Olá!+Welcome,+André+here!" alt="André Ribeiro" width="650" height="55">
+</div>
 
 <div id="badges" align="center">
   <a href="https://pt.linkedin.com/in/andr%C3%A9-ribeiro-kr36">
