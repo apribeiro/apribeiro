@@ -20,7 +20,7 @@
 - 👀 I'm interested in Full Stack Web Development, Agile Methodologies and Model-Driven Engineering. Besides that, I'm passionate about music, sports, traveling and enjoying life.
 - 🌱 I'm currently learning more about Agile Methodologies and how they can help teams improving their day-to-day work. Also exploring the [OutSystems Platform](https://www.outsystems.com/) and some popular JavaScript frameworks like [Angular](https://angular.io/), [React](https://reactjs.org/) and [Vue](https://vuejs.org/).
 - 💞️ I'm looking to collaborate on Agile Tranformation, Model-Driven Development and Web Development projects/research initiatives.
-- 📫 Feel free to reach me through my [LinkedIn Profile](https://pt.linkedin.com/in/andr%C3%A9-ribeiro-kr36) or my [email](mailto:andre.ribeiro@ist.utl.pt).
+- 📫 Feel free to reach me through my [LinkedIn Profile](https://www.linkedin.com/in/andré-ribeiro-kr36) or my [email](mailto:andre.ribeiro88@outlook.pt).
 
 ---
 
