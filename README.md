@@ -28,7 +28,7 @@
 
 [![André Ribeiro's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=apribeiro&theme=dark)](https://git.io/streak-stats)
 
-[![André Ribeiro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apribeiro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![André Ribeiro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apribeiro&layout=donut&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 apribeiro/apribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
