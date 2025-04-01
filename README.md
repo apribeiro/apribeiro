@@ -30,7 +30,7 @@
 
 ### 🔥 My Stats:
 
-[![André Ribeiro's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=apribeiro&theme=dark)](https://git.io/streak-stats)
+[![André Ribeiro's GitHub Streak](https://streak-stats.demolab.com?user=apribeiro&theme=dark)](https://git.io/streak-stats)
 
 [![André Ribeiro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apribeiro&layout=donut&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
